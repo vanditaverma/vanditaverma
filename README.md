@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **vanditaverma.vv@gmail.com**
 
-- ⚡ Fun fact : I once conducted an analysis of my personal spending habits and found that I'm exceptionally good at budgeting for big expenses, like vacations, but tend to overspend on coffee. It's safe to say that I'm not just an analyst at work, but also when it comes to my daily life.
-
+- ⚡ Fun fact : I once conducted an analysis of my personal spending habits and found that I'm exceptionally good at budgeting for big expenses but tend to overspend on coffee. It's safe to say that I'm not just an analyst at work, but also in my everyday life.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vandita-verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandita verma" height="30" width="40" /></a>
