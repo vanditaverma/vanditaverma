@@ -9,8 +9,25 @@
 - I'm interested in connecting with individuals who share similar interests and working together on collaborative projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vandita-verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandita verma" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vandita-verma/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandita verma" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://googleworkspaces.tableau.com/assets/tableau-icon.png" alt="tableau" width="40" height="40"/> </a> <a href="https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values." target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="tableau" width="40" height="40"/> </a>  </p>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://googleworkspaces.tableau.com/assets/tableau-icon.png" alt="tableau" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values." target="_blank" rel="noreferrer"> 
+    <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">HackerRank:</h3>
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/D4E12AQErlMlthAyeSQ/article-cover_image-shrink_600_2000/0/1704656373853?e=2147483647&v=beta&t=4RiWbbgdPcQyeP90NlNz9ar7yfEwfMn0mIYichzNioM" alt="Gold Hexagon" width="40" height="40"/>
+</p>
