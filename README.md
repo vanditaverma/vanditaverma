@@ -29,5 +29,7 @@
 
 <h3 align="left">HackerRank:</h3>
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/D4E12AQErlMlthAyeSQ/article-cover_image-shrink_600_2000/0/1704656373853?e=2147483647&v=beta&t=4RiWbbgdPcQyeP90NlNz9ar7yfEwfMn0mIYichzNioM" alt="Gold Hexagon" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/profile/vanditaverma_vv">
+    <img src="https://camo.githubusercontent.com/a210d7904d2ceda140d13da6fdd8eaf723e8b42411c873aedc5626b3ff4a901e/68747470733a2f2f687263646e2e6e65742f66636f72652f6173736574732f67656e6572617465642d6261646765732f73716c5f6c6576656c5f335f73746172735f355f6c696e6b6564696e2d656239383138653332312e706e67" alt="Gold Hexagon" width="90" height="70"/>
+  </a>
 </p>
